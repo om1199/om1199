@@ -1,6 +1,6 @@
 # 📊 Data Storyteller:
 ```python
-# Om Jamge – Data whisperer | Product thinker | Startup dreamer
+# Om D. Jamge – Data whisperer | Product thinker | Startup dreamer
 
 import curiosity
 import strategy
