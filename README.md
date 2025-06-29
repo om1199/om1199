@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📊 Data Storyteller:
 ```python
 # Om Jamge – Data whisperer | Product thinker | Startup dreamer
 
