@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Om Jamge – Data whisperer | Product thinker | Startup dreamer
+Om Jamge – Data whisperer | Product thinker | Startup dreamer
 
 import curiosity
 import strategy
@@ -11,8 +11,8 @@ def solve(real_world_problems):
     action = deploy(insights, with_empathy=True)
     return impact(scale=global, sustainable=True)
 
-# Currently exploring: analytics-driven product design, agritech innovation, & data storytelling.
-# Goal: Transform patterns into products, and insights into impact.
+Currently exploring: analytics-driven product design, agritech innovation, & data storytelling.
+Goal: Transform patterns into products, and insights into impact.
 <br>
 
 
