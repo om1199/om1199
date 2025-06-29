@@ -1,8 +1,11 @@
-# 📊 Om Jamge – Analytics Dashboard
+<h1 align="center">📊 Om Jamge – Analytics Dashboard</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122845886/277751947-analytics.gif" width="300" alt="Data Dashboard GIF">
+</p>
 
 Welcome to my interactive profile console.  
 Your gateway to a world of **data**, **decisions**, and **design thinking**.  
-*(Currently operating in 🧠 analyst mode)*
+<em>Currently operating in 🧠 analyst mode</em>
 
 ---
 
@@ -38,7 +41,16 @@ Soft Skills: Critical Thinking, Storytelling, Strategy
 
 ---
 
-## 📈 Key Metrics (🔄 Live Mode)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omjamge&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjamge&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 📈 Key Metrics
 
 - 📊 **Reports Generated:** 30+
 - 🔍 **Insights Uncovered:** 100+  
@@ -67,4 +79,6 @@ Soft Skills: Critical Thinking, Storytelling, Strategy
 
 > "The goal is not just to analyze data — it's to translate insight into **action** and **impact**."
 
-🟢 **System Status: ACTIVE** | 🚀 **Mission: Ongoing**
+<p align="center">
+  🟢 <strong>System Status:</strong> ACTIVE &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 <strong>Mission:</strong> Ongoing
+</p>
