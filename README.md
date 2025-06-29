@@ -1,84 +1,38 @@
-<h1 align="center">📊 Om Jamge – Analytics Dashboard</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/122845886/277751947-analytics.gif" width="300" alt="Data Dashboard GIF">
-</p>
-
-Welcome to my interactive profile console.  
-Your gateway to a world of **data**, **decisions**, and **design thinking**.  
-<em>Currently operating in 🧠 analyst mode</em>
-
----
-
-## 👨‍💼 Analyst Profile
-
-| Role               | Status             | Current Location   |
-|--------------------|--------------------|--------------------|
-| Business Analyst   | Learning & Building| Berlin, Germany 🇩🇪 |
-| Data Enthusiast    | Active             | 🧑‍💻 GitHub           |
-| Product Explorer   | Always Curious     | 🌐 World of Data     |
-
----
-
-## 📂 Projects Overview
-
-| 📁 Project               | 🧩 Type               | 🚀 Status       |
-|--------------------------|----------------------|-----------------|
-| Titanic Survival Analysis | EDA & Visualization  | ✅ Completed     |
-| eCommerce Insights       | Business Analysis     | ⏳ In Progress   |
-| Agritech Data Deck       | Market Validation     | 🧠 Idea Stage    |
-| Dashboard Portfolio      | Visualization Showcase| 🛠️ Building     |
-
----
-
-## 📦 Tech & Tools
-
+# 📊 Data Storyteller:
 ```python
-Languages:   Python, SQL, Markdown
-Libraries:   Pandas, NumPy, Seaborn, Matplotlib
-Tools:       Excel, Tableau, Git, Jupyter, VS Code
-Soft Skills: Critical Thinking, Storytelling, Strategy
+# Om D. Jamge – Data whisperer | Product thinker | Startup dreamer
+
+import curiosity
+import strategy
+import visualization as viz
+
+def solve(real_world_problems):
+    data = collect(business_signals)
+    insights = model(data)
+    action = deploy(insights, with_empathy=True)
+    return impact(scale="global", sustainable=True)
+
+# Currently exploring: analytics-driven product design, agritech innovation, & data storytelling.
+# Goal: Transform patterns into products, and insights into impact.
 ```
+<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-jamge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjamge.de@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=om1199&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=om1199&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=om1199&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=om1199&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om1199&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1199&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-## 📈 Key Metrics
-
-- 📊 **Reports Generated:** 30+
-- 🔍 **Insights Uncovered:** 100+  
-- 🧠 **Visualizations Built:** 50+
-- 💡 **Ideas Prototyped:** ∞  
-- 🧭 **Direction:** From data to decisions
-
----
-
-## 🔍 Currently Exploring
-
-- 🧪 Real-world dataset analysis  
-- 📦 Building a case-study portfolio  
-- 🌱 Leveling up in **Tableau** and **SQL joins**  
-- 🧭 Product thinking for data-driven growth  
-
----
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/omjamge)
-- 📊 [Kaggle](https://www.kaggle.com/) *(coming soon)*
-- 📬 Email: omjamge99@gmail.com
-
----
-
-> "The goal is not just to analyze data — it's to translate insight into **action** and **impact**."
-
-<p align="center">
-  🟢 <strong>System Status:</strong> ACTIVE &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 <strong>Mission:</strong> Ongoing
-</p>
+[![](https://visitcount.itsvg.in/api?id=om1199&icon=0&color=0)](https://visitcount.itsvg.in)
