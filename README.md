@@ -19,7 +19,7 @@ def solve(real_world_problems):
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-jamge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjamge.de@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/om1000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-jamge/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjamge.de@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&logoColor=ffdd54)](https://www.kaggle.com/om1000)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
