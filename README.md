@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 **I’m currently working on**  <br>Pursuing my Master's in International Management and developing a scalable agribusiness startup idea.<br><br>🤝 **I’m looking to collaborate on**  <br>Data analytics, product development, and sustainability-driven startup projects.<br><br>🤝 **I’m looking for help with**  <br>Mastering analytics tools and navigating the German job market for working student roles.<br><br>🌱 **I’m currently learning**  <br>Data science, product design, and the German language (B1 level).<br><br>💬 **Ask me about**  <br>Studying in Germany, analytics, startup ideas, or my 11-state bike ride across India.<br><br>⚡ **Fun fact**  <br>I blend business insights with adventure once biked across 11 Indian states in a year!<br>
+# Om Jamge – Data whisperer | Product thinker | Startup dreamer
+
+import curiosity
+import strategy
+import visualization as viz
+
+def solve(real_world_problems):
+    data = collect(business_signals)
+    insights = model(data)
+    action = deploy(insights, with_empathy=True)
+    return impact(scale=global, sustainable=True)
+
+# Currently exploring: analytics-driven product design, agritech innovation, & data storytelling.
+# Goal: Transform patterns into products, and insights into impact.
+<br>
 
 
 ## 🌐 Socials:
