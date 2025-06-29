@@ -44,8 +44,8 @@ Soft Skills: Critical Thinking, Storytelling, Strategy
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjamge&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjamge&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=om1199&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1199&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
