@@ -1,8 +1,8 @@
-<h1 align="center">📊 Om D. Jamge – Data Storyteller & Product Thinker</h1>
+<h1 align="center">📊 - Data Storyteller & Product Thinker</h1>
 
 <p align="center">
   <em>Turning raw data into readable decisions. Based in Berlin. Dreaming in SQL & Python.</em><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=4BFFA9&center=true&vCenter=true&width=350&lines=Business+Analyst;Product+Thinker;Data+Whisperer+Always" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=4BFFA9&center=true&vCenter=true&width=350&lines=Business+Analyst;Product+Thinker;Data+Whisperer;Learning+Python;Data+Science" alt="Typing SVG" />
 </p>
 
 ---
