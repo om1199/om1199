@@ -1,4 +1,4 @@
-<h1 align="center">📊 - Data Storyteller & Product Thinker</h1>
+<h1 align="center">📊 Data Storyteller & Product Thinker</h1>
 
 <p align="center">
   <em>Turning raw data into readable decisions. Based in Berlin. Dreaming in SQL & Python.</em><br>
