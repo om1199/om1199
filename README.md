@@ -58,9 +58,9 @@ def solve(real_world_problems):
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om1199&show_icons=true&hide_border=true" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om1199&hide_border=true" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1199&layout=compact&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=om1199&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om1199&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1199&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ def solve(real_world_problems):
 ## 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/om1199" alt="Om's GitHub chart" width="100%"/>
+  <img src="https://ghchart.rshah.org/om1199" alt="Om's GitHub chart" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ def solve(real_world_problems):
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om1199&column=4&no-bg=true&no-frame=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=om1199&column=4&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ def solve(real_world_problems):
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
 </p>
 
 ---
