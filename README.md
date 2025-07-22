@@ -8,8 +8,7 @@
 ---
 
 ```python
-# Om D. Jamge – Data whisperer | Product thinker | Startup dreamer
-
+# Om .D. Jamge – Data whisperer | Product thinker
 import curiosity
 import strategy
 import visualization as viz
